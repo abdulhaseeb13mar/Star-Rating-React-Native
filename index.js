@@ -1,12 +1,12 @@
 import React from "react";
 import { View, StyleSheet, Image } from "react-native";
-import FillStar from "./filled_star.png";
-import BlankStar from "./unfilled_star.png";
-import HalfStar from "./HalfFilled_star.png";
-import belowFourTwo from "./4_2_below.png";
-import AboveFourEight from "./4_8_above.png";
-import belowFourFive from "./4_5_below.png";
-import aboveFourFive from "./4_5_above.png";
+import FillStar from "./star-assets/filled_star.png";
+import BlankStar from "./star-assets/unfilled_star.png";
+import HalfStar from "./star-assets/HalfFilled_star.png";
+import belowFourTwo from "./star-assets/4_2_below.png";
+import AboveFourEight from "./star-assets/4_8_above.png";
+import belowFourFive from "./star-assets/4_5_below.png";
+import aboveFourFive from "./star-assets/4_5_above.png";
 
 // ------RECIEVE PROPS-------
 // rating [any integer or float value]
